@@ -1,0 +1,4 @@
+[03-Jul-2022 05:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/boostyxd/public_html/pixie/logic/functions.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/boostyxd/public_html/pixie/logic/functions.php on line 35
